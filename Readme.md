@@ -50,9 +50,9 @@ Once you see that the server has started, copy the localhost URL with the full t
 
 ![](https://i.imgur.com/zpOUrKz.png)
 
-**Note** 
-
-If you decide to use the Kernel Gateway to compute your code, specify this via the `--gateway-url=<url>` option when starting your notebook.
+> **Note** 
+>
+> If you decide to use the Kernel Gateway to compute your code, specify this via the `--gateway-url=<url>` option when starting your notebook.
 
 ## Accessing Jupyter Notebooks via HTTP
 
